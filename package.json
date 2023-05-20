@@ -11,7 +11,7 @@
     "appUUID": "0f26a87e-8ba0-4dff-9476-832a10242235",
     "appType": "app",
     "appDisplayName": "Squash Game Tracker",
-    "iconFile": "resources/icon.png",
+    "iconFile": "resources/icon80.png",
     "wipeColor": "#ffffff",
     "requestedPermissions": [],
     "buildTargets": [
