@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/JamesDalboth/fitbit-squash-game-tracker/compare/v1.0.0...v1.0.1) (2023-05-20)
+
+
+### Bug Fixes
+
+* icon file ([d8333f8](https://github.com/JamesDalboth/fitbit-squash-game-tracker/commit/d8333f8a7ce9d7791e25034cb951decb3266fb2f))
+
 # 1.0.0 (2023-05-20)
 
 
