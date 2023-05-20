@@ -1,4 +1,14 @@
-text {
+#text {
+  font-size: 60;
+  font-family: System-Regular;
+  font-weight: bold;
+  fill: white;
+  text-anchor: middle;
+  x: "50%";
+  y: "50%+30";
+}
+
+.label {
   font-size: 30;
   font-family: System-Regular;
   font-weight: bold;

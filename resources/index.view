@@ -1,20 +1,15 @@
 <svg>
-  <svg x="0" y="0" width="48%" height="75%">
-    <rect fill="blue"/>
-    <text y="10%+15">ME</text>
-    <text font-size="60" y="50%+30">0</text>
-  </svg>
+  <use id="me-button" href="#text-button" x="0%" y="0" width="48%" height="75%" fill="blue">
+    <text class="label">ME</text>
+    <set href="#text" attributeName="text-buffer" to="0"/>
+  </use>
 
+  <use id="op-button" href="#text-button" x="52%" y="0" width="48%" height="75%" fill="red">
+    <text class="label">OP</text>
+    <set href="#text" attributeName="text-buffer" to="5"/>
+  </use>
 
-  <svg x="52%" y="0" width="48%" height="75%">
-    <rect fill="red"/>
-    <text y="10%+15">OP</text>
-    <text font-size="60" y="50%+30">0</text>
-  </svg>
-
-  # Reset button
-  <svg x="0" y="80%" width="100%" height="20%">
-    <rect fill="grey"/>
-    <text>Reset</text>
-  </svg>
+  <use id="reset-button" href="#text-button" x="0" y="80%" width="100%" height="20%" fill="grey">
+    <set href="#text" attributeName="text-buffer" to="Reset"/>
+  </use>
 </svg>
