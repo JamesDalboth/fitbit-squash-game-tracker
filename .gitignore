@@ -19,5 +19,9 @@
 # Idea
 .idea/
 
+# Node
+package-lock.json
+node_modules/
+
 # Checkov Tests
 *.xml
