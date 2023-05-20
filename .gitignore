@@ -1,0 +1,23 @@
+# OSX
+*.DS_STORE
+
+# Terragrunt
+.terragrunt-cache
+
+# Idea
+.idea/
+
+# VS Code
+.vscode
+
+# Terraform
+.terraform
+*.tfstate
+*.tfstate.*
+*_terraplan
+
+# Idea
+.idea/
+
+# Checkov Tests
+*.xml
