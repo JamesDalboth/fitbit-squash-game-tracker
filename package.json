@@ -9,7 +9,7 @@
   },
   "fitbit": {
     "appUUID": "0f26a87e-8ba0-4dff-9476-832a10242235",
-    "appType": "clockface",
+    "appType": "app",
     "appDisplayName": "Squash Game Tracker",
     "iconFile": "resources/icon.png",
     "wipeColor": "#ffffff",
