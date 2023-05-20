@@ -6,7 +6,7 @@
 
   <use id="op-button" href="#text-button" x="52%" y="0" width="48%" height="75%" fill="red">
     <text class="label">OP</text>
-    <set href="#text" attributeName="text-buffer" to="5"/>
+    <set href="#text" attributeName="text-buffer" to="0"/>
   </use>
 
   <use id="reset-button" href="#text-button" x="0" y="80%" width="100%" height="20%" fill="grey">
